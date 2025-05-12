@@ -2,4 +2,4 @@
 
 ![AJAE HomePage](./imgs/homepageImage_en_US.png)
 
-### URL Public Website = https://so01.tci-thaijo.org/index.php/AEJ
+### Public URL Website = https://so01.tci-thaijo.org/index.php/AEJ
