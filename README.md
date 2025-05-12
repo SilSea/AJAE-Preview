@@ -1,5 +1,5 @@
-# This project create to preview custom template website for AJAE
+# This project create to preview custom template website for AJAE (Asian Journal of Applied Economics)
 
-## AJAE Website is a Journal of Kasetsart University Faculty of Economics
+## Asian Journal of Applied Economics, formerly knows as 'Applied Economics Journal(AEJ)' of Kasetsart University, Faculty of Economics
 
 ### URL Website = https://so01.tci-thaijo.org/index.php/AEJ
